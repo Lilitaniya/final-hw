@@ -1,0 +1,15 @@
+c:\Users\Бажена\Desktop\end hw\bin\Debug\net6.0\end hw.exe
+c:\Users\Бажена\Desktop\end hw\bin\Debug\net6.0\end hw.deps.json
+c:\Users\Бажена\Desktop\end hw\bin\Debug\net6.0\end hw.runtimeconfig.json
+c:\Users\Бажена\Desktop\end hw\bin\Debug\net6.0\end hw.dll
+c:\Users\Бажена\Desktop\end hw\bin\Debug\net6.0\end hw.pdb
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.csproj.AssemblyReference.cache
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.AssemblyInfoInputs.cache
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.AssemblyInfo.cs
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.csproj.CoreCompileInputs.cache
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.dll
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\refint\end hw.dll
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.pdb
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\end hw.genruntimeconfig.cache
+c:\Users\Бажена\Desktop\end hw\obj\Debug\net6.0\ref\end hw.dll
